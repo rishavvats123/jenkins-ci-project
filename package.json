@@ -1,0 +1,12 @@
+{
+  "name": "jenkins-ci-project",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "mocha tests/*.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
